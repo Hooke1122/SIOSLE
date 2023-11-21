@@ -28,7 +28,7 @@ The instance batch_tableX.m solves is in the path ../InstanceAndresult/tableX/in
 After executing the code, they will generate a folder associated with the instance in the same folder, 'outputBB-tandRX-NX-aiX-nmaxX-TestTimeX'. 
 Each folder basically includes 7 files, 'order.csv', 'result.csv', 'split_list.csv', 'decom_list.csv', 'split_list1or2.csv', 'decom_listBA.csv', 'decom_listDetail.csv'.
 
-Note that with the default parameters, matlab can only keep 5 significant digits.
+Note that with the default parameters, Matlab can only keep 5 significant digits.
 
 'result.csv' has:  
 Column 1-5 : tandR,N,a,nmax,TestTime (to search for a instance)  
